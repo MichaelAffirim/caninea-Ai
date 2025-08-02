@@ -1,6 +1,6 @@
-# CanineAI
+# CanineaAI
 
-CanineAI is a Flutter-powered mobile app that uses AI to identify dog breeds from your photos. Instantly discover the breed of any dog, get fun facts, view your prediction history, read the latest dog news, and more—all in a beautiful, modern interface.
+CanineaAI is a Flutter-powered mobile app that uses AI to identify dog breeds from your photos. Instantly discover the breed of any dog, get fun facts, view your prediction history, read the latest dog news, and more—all in a beautiful, modern interface.
 
 ---
 
